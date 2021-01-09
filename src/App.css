@@ -36,3 +36,95 @@
     transform: rotate(360deg);
   }
 }
+
+.main
+{
+
+
+}
+.site-display
+{
+
+  height:100vh;
+  width:100%;
+
+  padding-top: 65px;
+
+  background-image: url('https://i.pinimg.com/originals/f2/40/73/f240732e918d10874c9c7297a368e714.jpg');
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+  padding: 20px;
+
+}
+#products
+{
+  padding-top: 65px;
+  margin-top: 50px;
+
+}
+.card-img-top:hover
+{
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+
+#about
+{
+  /*height:100vh;
+  width:100%;*/
+  padding-top: 100px;
+  margin-top: 50px;
+
+  /*text-align: center;*/
+
+
+
+
+}
+#customers
+{
+  padding-top: 65px;
+  margin-top: 50px;
+
+}
+
+
+#contact
+{
+  padding-top: 85px;
+  margin-top: 50px;
+  text-align: left;
+
+}
+
+
+footer {
+       position: relative;
+       height: 50vh;
+       width: 100%;
+       background-color: #333333;
+   }
+
+   p.copyright {
+       position: absolute;
+       width: 100%;
+       color: #fff;
+       line-height: 40px;
+       font-size: 0.7em;
+       text-align: center;
+       bottom:0;
+   }
+  .iconDiv
+  {
+    position: absolute;
+    text-align: center;
+
+  }
+  .icon
+  {
+    margin-top: 30px;
+    margin: 15px;
+
+  }
